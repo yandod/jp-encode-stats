@@ -1,0 +1,13 @@
+{
+    "name": "yandod/jp-encode-stats",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yandod\\JpEncodeStats\\": "src/"
+        }
+    },
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}
